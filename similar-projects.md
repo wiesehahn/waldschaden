@@ -1,6 +1,6 @@
 # Literaturrecherche
 
-## Ähnliche Projekte
+## Research Projects
 | Projekt 	| Name 	| Bearbeiter 	| Beschreibung 	| Daten 	| Methoden 	| Laufzeit 	|
 |-	|-	|-	|-	|-	|-	|-	|
 | [FNEWs](https://www.thuenen.de/de/institutsuebergreifende-projekte/fernerkundungsbasiertes-nationales-erfassungssystem-waldschaeden/) 	| Fernerkundungsbasiertes Nationales Erfassungssystem Waldschäden 	| Thünen-Institut, Joanneum, WSL, Sachsenforst, LWF, FVA-BW, NW-FVA 	| Entwicklung und Implementierung eines fernerkundungsbasierten Erfassungssystems für Waldschäden in Deutschland. 	| Sentinel-1, Sentinel-2, Orthofotos, PlanetLabs 	| Zeitreihenanalyse, ... 	| 2020-2023 	|
@@ -16,3 +16,9 @@
 | [GreenRisk4ALPs](https://www.alpine-space.eu/projects/greenrisk4alps/en/home) 	| Development of ecosystem-based approaches for the support of risk management activities in connect on with natural hazards and climate change 	| WSL, BFW (relevantes Arbeitspaket) 	| Case studies on: 1) Rapid assessment of Storm Damages with Sentinel-1AB; 2) Analysis of drought effects after the dry/hot summer 2018; 3) Fungal infestation of Pinus nigra in Lower Austria with UAS; 4) Monitoring a forest fire area in Tyrol (UAS) 	| Sentinel-1, Sentinel-2, UAS 	|  	| 2018-2021 	|
 | [Digital Forest](https://www.uni-goettingen.de/en/635968.html) 	| A real-time forest monitoring system for climate change impacts 	| Göttingen University, Leipzig University 	| develop a prototype of a multi-dimensional ecophysiological and multi-scale early warning monitoring system for drought stress of forests 	| Sentinel-1, Sentinel-2, RapidEye (relevantes Arbeitspaket) 	| KI 	| 2021- 2024 (?) 	|
 | AlpMon 	| Service for Continuous Monitoring of Alpine Forests by Means of Sentinel-2 / Landsat 8 –Data 	| EODC, Cloudflight Austria, Joanneum 	| Ziel ist die Entwicklung eines Alpinen Waldmonitoringsystems mit nahezu Echtzeit-Alarmsystem für abrupte Waldveränderungen auf Basis von Zeitreihenanalysen (Sturmschäden, Insektenkatastrophen, Kahlschläge und Schneebruch) und eine Erfassung von statischen Waldparametern  	| Sentinel-2, Landsat-8 Daten 	| Zeitreihenanalyse 	| 2017-2019 	|
+
+
+## Commercial Projects
+| Projekt 	| Name 	| Bearbeiter 	| Beschreibung 	| Daten 	| Methoden 	| Region 	|
+|-	|-	|-	|-	|-	|-	|-	|
+| [Silvisense](https://forum.groundstation.space/wp-content/uploads/2021/03/Speaker_Space4Forestry_Silvisense_Edo.pdf) 	| Silvisense Forest Monitoring 	| www.stcorp.no 	| Provides forest owners with a digital service to automatically monitor the state of their forest inventory, offering regular tracking and detection of changes. 	| Sentinel-1, Sentinel-2, (Aerial Imagery)	| SVM, CNN(?) 	| Norway 	|
