@@ -22,3 +22,8 @@
 | Projekt 	| Name 	| Bearbeiter 	| Beschreibung 	| Daten 	| Methoden 	| Region 	|
 |-	|-	|-	|-	|-	|-	|-	|
 | [Silvisense](https://forum.groundstation.space/wp-content/uploads/2021/03/Speaker_Space4Forestry_Silvisense_Edo.pdf) 	| Silvisense Forest Monitoring 	| www.stcorp.no 	| Provides forest owners with a digital service to automatically monitor the state of their forest inventory, offering regular tracking and detection of changes. 	| Sentinel-1, Sentinel-2, (Aerial Imagery)	| SVM, CNN(?) 	| Norway 	|
+
+## Other Projects
+| Projekt 	| Name 	| Bearbeiter 	| Beschreibung 	| 
+|-	|-	|-	|-	|
+| [BEECHDECLINE](https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20210319_161746) 	| BEECHDECLINE 	| TUM 	|  Drought-induced tree mortality of European beech affected by legacy effects and small-scale heterogeneity in soil properties and tree neighbourhood composition. 	| 
